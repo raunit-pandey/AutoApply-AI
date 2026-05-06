@@ -1,0 +1,16 @@
+streamlit
+google-generativeai
+pdfplumber
+python-docx
+striprtf
+fpdf2
+pandas
+openpyxl
+notion-client
+streamlit-option-menu
+Pillow
+groq
+anthropic
+together 
+openai
+supabase>=2.0.0
